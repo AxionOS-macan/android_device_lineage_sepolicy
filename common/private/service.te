@@ -9,4 +9,4 @@ type ax_sandbox_service, system_api_service, system_server_service, service_mana
 type game_space_service, system_api_service, system_server_service, service_manager_type;
 type freeform_service, system_api_service, system_server_service, service_manager_type;
 type theme_engine_service, system_api_service, system_server_service, service_manager_type;
-type linearmotor_vibrator_service, system_api_service, system_server_service, service_manager_type;
+type linearmotor_vibrator_service, app_api_service, system_api_service, system_server_service, service_manager_type;
